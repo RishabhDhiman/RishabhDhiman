@@ -12,7 +12,7 @@ I build the apps India shops and pays with. At Nykaa I work on the **Nykaa Fashi
 ## What I work on
 
 - **Nykaa (2024–present):** Nike India app, Nykaa Fashion and Nykaa Beauty. COD widget revamp that cut cash burn by 80%, Rate & Review (+7% ratings) and Order Confirmation (+7% cross-selling).
-- **Paytm (2022–2024):** POS payments app. single-handedly built ECR for NCMC metro card transactions across four metro agencies, an ECR SDK for Windows, a bus transit fare app, the 2BDK → 3BDK encryption migration, and a 10% battery-life gain on POS devices. Paytm Rising Star 2023.
+- **Paytm (2022–2024):** POS payments app. Single-handedly built ECR for NCMC metro card transactions across four metro agencies, plus an ECR SDK for Windows. Also helped build a bus transit fare app, ran the 2BDK → 3BDK encryption migration, and gained 10% battery life on POS devices. Paytm Rising Star 2023.
 - **Earlier:** Android apps for Jio Career and Surfboard Central at Mobile Programming, and server-driven layouts at Seasia Infotech.
 
 **Toolkit:** Kotlin, Java, Android SDK, MVVM, payments and EMV, Node.js
