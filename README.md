@@ -2,7 +2,7 @@
 
 **Senior Android Engineer** · SDE-2 at [Nykaa](https://www.nykaa.com) · ex-Paytm, ex-Jio
 
-I build the apps India shops and pays with. I was part of the team that built the Nike India Android app from scratch in four months, I work on the Payments SDK behind every Nykaa and Nike India app, and before that I spent two years on Paytm's POS payments app.
+I build the apps India shops and pays with. At Nykaa I work on the **Nykaa Fashion**, **Nykaa Beauty** and **Nike India** Android apps, and on the Payments SDK they all share. I was part of the team that built the Nike India app from scratch in four months. Before Nykaa, I spent two years on Paytm's POS payments app.
 
 - 🌐 **Website:** [rishabhdhiman.com](https://rishabhdhiman.com)
 - 💼 **LinkedIn:** [in/rishabhdhiman](https://www.linkedin.com/in/rishabhdhiman/)
